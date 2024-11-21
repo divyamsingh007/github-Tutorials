@@ -1,4 +1,5 @@
 lorem ipsum dolor text
 adding more contert to file man
 this is how i usally work
+ making a change
  
