@@ -2,4 +2,5 @@ lorem ipsum dolor text
 adding more contert to file man
 this is how i usally work
  making a change
- 
+ making another changes after learnig github
+ i think this shpuld work
